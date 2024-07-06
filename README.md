@@ -1,1 +1,1 @@
-# RAG-without-langchain
+# simple-RAG-without-langchain
