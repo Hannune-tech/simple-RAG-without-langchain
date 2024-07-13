@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+chromadb
+python-docx
+python-pptx
+pdfplumber
+semantic-router
