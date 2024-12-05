@@ -73,7 +73,7 @@ class semantic_chunking:
     def start(self, retrieved_text:dict):
         encoder = OpenAIEncoder(
             name=self.embedding_model, 
-            openai_api_key=os.getenv("CUSTOM_OPENAI_API_KEY"),
+            openai_api_key=os.getenv("OPENAI_API_KEY"),
         )
 
 
